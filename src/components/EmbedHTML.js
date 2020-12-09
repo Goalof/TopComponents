@@ -15,6 +15,13 @@ const customHtml = `
 :-ms-input-placeholder      {color:#637897;font-size: 20px;}
 }
 	 
+span.reqiredInPlaceholder.note {
+    color: #FF0000;
+    font-size: 24px !important;
+    position: absolute;
+    right: 10px;
+    top: 88px;
+}	 
 </style>
 
 

@@ -330,11 +330,12 @@ export default (() => {
 							</Box>
 							<Formspree
 								errorMessage="Something went wrong"
-								completeText="Success"
+								completeText="Thank уou, we’ll contact you ASAP"
 								endpoint="xeqpgrlv"
 								width="100%"
 								color="#ffffff"
 								sm-font="13px sans-serif"
+								position="relative"
 							>
 								<Input
 									display="flex"
@@ -355,7 +356,7 @@ export default (() => {
 									hover-border-color="#66FFE4"
 									name="Name"
 									hover-border-width="2px"
-									padding="13px 16px 13px 20px"
+									padding="10px 16px 13px 20px"
 									md-font="normal 400 24px/30px --fontFamily-sans"
 									sm-height="50px"
 									sm-padding="10px 16px 13px 20px"
@@ -380,11 +381,12 @@ export default (() => {
 									hover-border-color="#66FFE4"
 									required
 									hover-border-width="2px"
-									padding="13px 16px 13px 20px"
+									padding="10px 16px 13px 20px"
 									md-font="normal 400 24px/30px --fontFamily-sans"
 									sm-height="50px"
 									sm-padding="10px 16px 13px 20px"
 								/>
+								<Components.Start />
 								<Input
 									name="Phone/Messenger"
 									display="flex"
@@ -405,7 +407,7 @@ export default (() => {
 									hover-border-width="2px"
 									font="normal 400 24px/30px --fontFamily-sans"
 									border-style="solid"
-									padding="13px 16px 13px 20px"
+									padding="10px 16px 13px 20px"
 									md-font="normal 400 24px/30px --fontFamily-sans"
 									sm-font="normal 400 24px/30px --fontFamily-sans"
 									sm-height="50px"
