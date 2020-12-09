@@ -20,7 +20,7 @@ span.reqiredInPlaceholder.note {
     font-size: 24px !important;
     position: absolute;
     right: 10px;
-    top: 88px;
+    top: 90px;
 }	 
 </style>
 

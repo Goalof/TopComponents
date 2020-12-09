@@ -211,6 +211,7 @@ export default (() => {
 								md-padding="36px 34px 62px 34px"
 								sm-padding="36px 20px 36px 10px"
 								sm-border-width="0px 0px 1px 0px"
+								justify-content="center"
 							/>
 							<Box
 								width="100%"
