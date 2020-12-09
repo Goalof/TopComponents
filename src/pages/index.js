@@ -145,7 +145,7 @@ export default (() => {
 		</Section>
 		<Section
 			text-align="left"
-			padding="70px 0 70px 0"
+			padding="70px 0 80px 0"
 			background-image="linear-gradient(0deg, #0E1317 0%, #22262E 100%)"
 			lg-text-align="left"
 			position="relative"
