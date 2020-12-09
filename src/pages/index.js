@@ -398,7 +398,7 @@ export default (() => {
 									background="rgba(63, 71, 80, 0)"
 									hover-border-color="#66FFE4"
 									color="#ffffff"
-									required
+									required={false}
 									letter-spacing=".8PX"
 									placeholder="Phone/Messenger"
 									border-color="#637897"
